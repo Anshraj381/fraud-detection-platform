@@ -338,6 +338,8 @@ The system follows a modular architecture with clear separation of concerns:
 6. **Awareness Tracker**: Calculates user awareness improvement
 7. **Database Logger**: Persists results with retry logic
 8. **Message Analyzer**: Orchestrates the complete pipeline
+9. <img width="780" height="816" alt="image" src="https://github.com/user-attachments/assets/700d8ace-dc86-4688-a4be-20047ba2ca83" />
+
 
 ## Cross-Platform Compatibility
 
@@ -451,3 +453,4 @@ For issues, questions, or feedback:
 ---
 
 **Note**: This system is designed for educational and awareness purposes. Always verify suspicious messages through official channels and report fraud to appropriate authorities.
+
