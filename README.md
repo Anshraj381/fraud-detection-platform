@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+
 
 # Intelligent Digital Fraud Awareness and Detection Platform
 
@@ -455,5 +455,6 @@ For issues, questions, or feedback:
 ---
 
 **Note**: This system is designed for educational and awareness purposes. Always verify suspicious messages through official channels and report fraud to appropriate authorities.
+
 
 
