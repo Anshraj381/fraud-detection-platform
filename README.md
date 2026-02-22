@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Intelligent Digital Fraud Awareness and Detection Platform
 
 An offline, web-based application that analyzes suspicious SMS, WhatsApp messages, and call transcripts to detect potential fraud using a hybrid approach combining rule-based pattern matching with machine learning classification.
@@ -453,4 +455,5 @@ For issues, questions, or feedback:
 ---
 
 **Note**: This system is designed for educational and awareness purposes. Always verify suspicious messages through official channels and report fraud to appropriate authorities.
+
 
