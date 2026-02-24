@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e7095b9f-d90e-49d1-a181-90bc9ba1a630" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/53bcce01-ca85-440a-b020-14a03a8d13bf" />
+
 
 
 # Intelligent Digital Fraud Awareness and Detection Platform
@@ -456,6 +457,7 @@ For issues, questions, or feedback:
 ---
 
 **Note**: This system is designed for educational and awareness purposes. Always verify suspicious messages through official channels and report fraud to appropriate authorities.
+
 
 
 
